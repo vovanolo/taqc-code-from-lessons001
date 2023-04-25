@@ -592,3 +592,15 @@
   
 //   upperCase('regexp');
 //   upperCase('RegExp');
+
+// const bookList = document.querySelector("#booksList");
+//   async function downloadBooks () {
+//     const response = await fetch("books.json");
+//     const data = await response.json();
+//     data.map(element => {
+//       // let li = document.createElement("li");
+//       // li.innerText = `${element.author}`;
+//       // bookList.appendChild(li);
+//       bookList.innerHTML += `<li>${element.author}</li>`;
+//     });
+//   }
