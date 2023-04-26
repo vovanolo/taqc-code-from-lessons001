@@ -1,4 +1,4 @@
 let hello = "hello";
 
 
-let someVariable = "someVariable";
+let someVariable = "123";
